@@ -12,5 +12,6 @@
 	<p>1.브렌치 초기화 - 특정 지점까지 초기화 하는 기능</p>
 	<p>2.revese commit</p>
 	<p>불필요한 내용</p>	
+	<button>클릭해주세요</button>
 </body>
 </html>
